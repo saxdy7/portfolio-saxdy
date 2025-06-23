@@ -1,6 +1,5 @@
 import React from 'react';
 import { Component as EtherealShadow } from "@/app/components/ui/etheral-shadow";
-import { TickerText } from "@/app/components/ui/TickerText"; // Import the ticker component
 
 export default function Hero() {
   return (
@@ -60,7 +59,7 @@ export default function Hero() {
 
             {/* Professional description */}
             <p className="text-lg text-gray-300 mb-8 max-w-2xl mx-auto leading-relaxed">
-              I'm a tech entrepreneur, specializing in intuitive, impactful app development and digital branding. I'm passionate about leveraging technology for social good and empowering users through innovative solutions.
+              I&apos;m a tech entrepreneur, specializing in intuitive, impactful app development and digital branding. I&apos;m passionate about leveraging technology for social good and empowering users through innovative solutions.
             </p>
               
             {/* Scroll down indicator */}
